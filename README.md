@@ -12,4 +12,4 @@ Analyze costs associated with online sales.
 Monitor the number of transactions for each country.
 
 ## Snapshot
-![Dashboard Screenshot](C:\PowerBI\PowerBI\assets\dashboard_snapshot.png)
+![Dashboard Screenshot](assets/dashboard_snapshot.png)
